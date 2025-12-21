@@ -28,7 +28,7 @@ The project consists of several Jupyter Notebooks, each focusing on specific asp
 | `project_phase1.ipynb` | The foundational notebook covering data loading, preprocessing, distribution analysis, and baseline CNN model creation. |
 | `optimizers_with_XAI.ipynb` | Features the core implementation of the hierarchy optimization strategy: **Whale Optimization → PSO → CNN**. It also includes XAI visualizations. |
 | `lime-optmization-2-models.ipynb` | A comparative study focusing on optimizing different models and analyzing their decisions using LIME. |
-| `Tabu_with Whale.ipynb` | Explores a hybrid approach or comparison involving Tabu Search and the Whale Optimization Algorithm. |
+| `Tabu_with Whale.ipynb` | Explores a hybrid approach involving Tabu Search and the Whale Optimization Algorithm. |
 
 ## 🛠️ Dependencies
 
